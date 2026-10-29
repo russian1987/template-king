@@ -8,7 +8,7 @@ function card(p) {
   ${p.price ? `<p><strong>${esc(p.price)}</strong></p>` : ""}
   <div class="actions"><a class="btn teal" href="product.html?slug=${encodeURIComponent(p.slug)}">Details</a><a class="btn" href="${esc(p.etsy_url)}" rel="noopener">Buy on Etsy</a></div></div></article>`;
 }
-const soon = `<article class="card soon"><h3>More templates coming soon</h3><p>New spreadsheets for budgeting, small business and more are on the way.</p><a href="https://www.pinterest.com/russian1987/" rel="noopener">Follow on Pinterest for updates</a></article>`;
+const soon = `<article class="card soon"><h3>More templates coming soon</h3><p>New spreadsheets for budgeting, small business and more are on the way.</p><a href="https://www.pinterest.com/russian1987/template-king-small-business-templates/" rel="noopener">Follow on Pinterest for updates</a></article>`;
 
 function home(products) {
   const grid = document.getElementById("grid"), filters = document.getElementById("filters");
