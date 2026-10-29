@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "small-business-tax-tracker-2026",
+    "title": "Small Business Tax Tracker 2026",
+    "tagline": "Income, expenses, mileage & quarterly taxes in one spreadsheet. 2026 IRS rates built in.",
+    "category": "Taxes & Finance",
+    "featured": true,
+    "price": "",
+    "etsy_url": "https://www.etsy.com/listing/4605385880/small-business-tax-tracker-2026-mileage",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "11 tabs including Dashboard, Income, Expenses, Mileage Log, Quarterly Estimated Taxes, Home Office, Tax Summary, Settings and Instructions",
+      "Expenses sorted into Schedule C categories automatically",
+      "Mileage log with 2026 IRS rates built in: 72.5¢/mile (Jan–Jun) and 76¢/mile (Jul–Dec)",
+      "Quarterly estimated tax calculator, including self-employment tax (15.3% on 92.35% of net)",
+      "Home office deduction using the simplified method: $5 per sq ft, up to 300 sq ft",
+      "Year-end Tax Summary ready to hand to your tax preparer"
+    ],
+    "images": [
+      "assets/products/small-business-tax-tracker-2026/01-hero.webp",
+      "assets/products/small-business-tax-tracker-2026/02-whats-included.webp",
+      "assets/products/small-business-tax-tracker-2026/03-tab-dashboard.webp",
+      "assets/products/small-business-tax-tracker-2026/04-tab-tax-summary.webp",
+      "assets/products/small-business-tax-tracker-2026/05-tab-quarterly-taxes.webp",
+      "assets/products/small-business-tax-tracker-2026/06-tab-income.webp",
+      "assets/products/small-business-tax-tracker-2026/07-tab-expenses.webp",
+      "assets/products/small-business-tax-tracker-2026/08-tab-mileage-log.webp",
+      "assets/products/small-business-tax-tracker-2026/12-tab-home-office.webp",
+      "assets/products/small-business-tax-tracker-2026/10-collage-setup-yearend.webp"
+    ],
+    "video": "assets/products/small-business-tax-tracker-2026/listing-video.mp4",
+    "tags": ["self-employed", "freelancer", "mileage log", "quarterly taxes", "Schedule C", "Google Sheets", "Excel"],
+    "note": "This template is an organizational tool, not tax advice. Consult a qualified tax professional."
+  }
+]
