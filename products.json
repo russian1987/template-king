@@ -29,7 +29,232 @@
       "assets/products/small-business-tax-tracker-2026/10-collage-setup-yearend.webp"
     ],
     "video": "assets/products/small-business-tax-tracker-2026/listing-video.mp4",
-    "tags": ["self-employed", "freelancer", "mileage log", "quarterly taxes", "Schedule C", "Google Sheets", "Excel"],
+    "tags": [
+      "self-employed",
+      "freelancer",
+      "mileage log",
+      "quarterly taxes",
+      "Schedule C",
+      "Google Sheets",
+      "Excel"
+    ],
     "note": "This template is an organizational tool, not tax advice. Consult a qualified tax professional."
+  },
+  {
+    "slug": "budget-planner-2027",
+    "title": "2027 Budget Planner",
+    "tagline": "Plan every paycheck, track bills, crush debt and grow savings. The planner does the math.",
+    "category": "Personal Finance",
+    "featured": false,
+    "price": "$12.99",
+    "etsy_url": "https://www.etsy.com/listing/4606918003",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Dashboard: income, spending, savings rate, net worth, debt-free date and 4 live charts",
+      "Budget: plan each category once (\"every month\") and override any month",
+      "Transactions: 1,500-row log with category dropdowns - the planner sorts everything for you",
+      "Monthly View: pick a month, see budget vs. actual by category and group",
+      "Annual Summary: 12-month rollup of every category",
+      "Paycheck Planner: weekly, biweekly, semi-monthly or monthly pay dates for 2027, the bills due before each payday, and a heads-up on 3-paycheck months",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/budget-planner-2027/01-hero.webp",
+      "assets/products/budget-planner-2027/02-dashboard.webp",
+      "assets/products/budget-planner-2027/03-paychecks-bills.webp",
+      "assets/products/budget-planner-2027/04-debt-payoff.webp",
+      "assets/products/budget-planner-2027/05-savings-networth.webp"
+    ],
+    "video": "assets/products/budget-planner-2027/listing-video.mp4",
+    "tags": [
+      "paycheck budget",
+      "biweekly budget",
+      "bill tracker",
+      "debt snowball",
+      "debt payoff tracker",
+      "savings tracker",
+      "net worth tracker"
+    ]
+  },
+  {
+    "slug": "profit-loss-2027",
+    "title": "Profit & Loss 2027",
+    "tagline": "Monthly P&L, margins and year-over-year comparison, with expenses mapped to Schedule C lines.",
+    "category": "Taxes & Finance",
+    "featured": false,
+    "price": "$11.99",
+    "etsy_url": "https://www.etsy.com/listing/4606919535",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Dashboard: net revenue, gross profit, gross & net margin, operating expenses, growth vs. last year, best month and 4 charts",
+      "Monthly Input: type each month's totals from your bank, Etsy, Shopify or PayPal reports",
+      "Transactions (optional): 1,000-row log - pick a line item and it adds to the right month",
+      "P&L Monthly: full statement, every line every month, with % of revenue",
+      "Annual & YoY: quarterly totals plus $ and % change vs. last year (green = better, red = worse)",
+      "Prior Year: enter last year by month or as annual totals",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/profit-loss-2027/01-hero.webp",
+      "assets/products/profit-loss-2027/02-dashboard.webp",
+      "assets/products/profit-loss-2027/03-pl-monthly.webp",
+      "assets/products/profit-loss-2027/04-schedule-c-yoy.webp",
+      "assets/products/profit-loss-2027/05-charts.webp"
+    ],
+    "video": "assets/products/profit-loss-2027/listing-video.mp4",
+    "tags": [
+      "p&l template",
+      "income statement",
+      "bookkeeping template",
+      "schedule c",
+      "self employed",
+      "small business excel",
+      "etsy shop tracker"
+    ],
+    "note": "This template is an organizational tool, not tax advice. Consult a qualified tax professional."
+  },
+  {
+    "slug": "rental-property-tracker",
+    "title": "Rental Property Tracker",
+    "tagline": "NOI, cash flow, cap rate and Schedule E for up to 10 rental properties.",
+    "category": "Real Estate",
+    "featured": false,
+    "price": "$14.99",
+    "etsy_url": "https://www.etsy.com/listing/4606920011",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Dashboard: rent collected, NOI, cash flow, portfolio cap rate, cash-on-cash return, occupancy, late payments and equity, plus 4 charts",
+      "10 Property tabs: property & loan details, up to 4 units with leases, a 12-month rent roll that marks each payment Paid, Paid late, Partial, LATE or Vacant and more",
+      "Expense Log: 1,500 rows - pick the property and category and it lands on the right Schedule E line",
+      "Rent Roll Overview: collections, collection rate, late payments and vacancy for every property",
+      "Portfolio Summary: NOI, debt service, cash flow, cap rate, cash-on-cash and estimated equity side by side",
+      "Schedule E Summary: lines 1-21 for every property plus a memo of capital improvements, basis and deposits - ready for your tax preparer",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/rental-property-tracker/01-hero.webp",
+      "assets/products/rental-property-tracker/02-dashboard.webp",
+      "assets/products/rental-property-tracker/03-rent-roll.webp",
+      "assets/products/rental-property-tracker/04-schedule-e-depreciation.webp",
+      "assets/products/rental-property-tracker/05-portfolio.webp"
+    ],
+    "video": "assets/products/rental-property-tracker/listing-video.mp4",
+    "tags": [
+      "landlord template",
+      "rent tracker",
+      "rent roll",
+      "schedule e",
+      "property management",
+      "real estate excel",
+      "cap rate"
+    ],
+    "note": "This template is an organizational tool, not tax advice. Consult a qualified tax professional."
+  },
+  {
+    "slug": "inventory-tracker",
+    "title": "Inventory Tracker",
+    "tagline": "Track stock, flag low items, build reorder lists and see inventory value and margins.",
+    "category": "Business Operations",
+    "featured": false,
+    "price": "$9.99",
+    "etsy_url": "https://www.etsy.com/listing/4606941806",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Products: up to 300 SKUs with category, supplier, cost, price, reorder point and reorder qty. Current stock, stock value and more",
+      "Stock Log: record purchases, sales, returns and adjustments. Pick products from a \"SKU - Name\" dropdown - stock updates instantly.",
+      "Reorder List: auto-builds the items at or below the reorder point, with suggested order quantity, supplier and estimated cost.",
+      "Dashboard: 8 KPIs (stock value, units on hand, low/out of stock, sales, gross profit and more) plus 4 charts - top sellers, low stock and more",
+      "Suppliers tab, editable categories and dropdowns, color-coded status, frozen headers, print-ready pages.",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/inventory-tracker/01-hero.webp",
+      "assets/products/inventory-tracker/02-dashboard.webp",
+      "assets/products/inventory-tracker/03-products.webp",
+      "assets/products/inventory-tracker/04-stock-log-reorder.webp",
+      "assets/products/inventory-tracker/05-sales-category.webp"
+    ],
+    "video": "assets/products/inventory-tracker/listing-video.mp4",
+    "tags": [
+      "inventory template",
+      "stock tracker",
+      "inventory sheet",
+      "etsy seller tool",
+      "reorder tracker",
+      "product tracker",
+      "stock management"
+    ]
+  },
+  {
+    "slug": "invoice-client-tracker",
+    "title": "Invoice & Client Tracker",
+    "tagline": "Invoices, clients, payment status, aging and sales tax in one place.",
+    "category": "Business Operations",
+    "featured": false,
+    "price": "$8.99",
+    "etsy_url": "https://www.etsy.com/listing/4606942442",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Printable Invoice: pick an invoice number and a polished invoice fills itself in - your logo, business details, bill-to, up to 15 line items, discount, tax and more",
+      "Automatic invoice numbers (your prefix + number) and a \"next invoice #\" display.",
+      "Invoice Log: due dates, totals, balances and status (Paid / Partial / Unpaid / Overdue / Draft) calculate automatically.",
+      "Clients: contact details plus each client's total invoiced, paid, balance and overdue amount.",
+      "Aging Report: open balances by Current, 1-30, 31-60, 61-90 and 90+ days past due.",
+      "Yearly Summary and Dashboard: 8 KPIs and 4 charts - invoiced vs collected by month, aging, top clients and invoice status.",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/invoice-client-tracker/01-hero.webp",
+      "assets/products/invoice-client-tracker/02-dashboard.webp",
+      "assets/products/invoice-client-tracker/03-invoice.webp",
+      "assets/products/invoice-client-tracker/04-aging-report.webp",
+      "assets/products/invoice-client-tracker/05-clients-yearly.webp"
+    ],
+    "video": "assets/products/invoice-client-tracker/listing-video.mp4",
+    "tags": [
+      "invoice tracker",
+      "client tracker",
+      "freelancer invoice",
+      "payment tracker",
+      "invoice spreadsheet",
+      "accounts receivable",
+      "billing template"
+    ]
+  },
+  {
+    "slug": "small-business-crm",
+    "title": "Small Business CRM",
+    "tagline": "Leads, deal pipeline, weighted forecast, win rate and follow-up reminders. No monthly fee.",
+    "category": "Sales & Clients",
+    "featured": false,
+    "price": "$12.99",
+    "etsy_url": "https://www.etsy.com/listing/4606921659",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Deals: up to 500 leads/deals with company, contact, source, owner, stage, value and next follow-up date. Win probability and weighted value calculate automatically.",
+      "Follow-Ups: an auto-sorted list of what to do next, flagged Overdue / Today / Upcoming, plus \"No contact 14+ days\" alerts.",
+      "Activity Log: log calls, emails, meetings and notes - last contact date updates on each deal.",
+      "Pipeline Report: deals and value by stage, lead source, owner and month, with win rates.",
+      "Dashboard: 8 KPIs (open pipeline, weighted forecast, won revenue, win rate and more), funnel chart, value by stage, leads and wins by source and more",
+      "Editable lead sources, owners, activity types and stage probabilities. Color-coded stages, frozen headers, print-ready.",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/small-business-crm/01-hero.webp",
+      "assets/products/small-business-crm/02-dashboard.webp",
+      "assets/products/small-business-crm/03-deals.webp",
+      "assets/products/small-business-crm/04-follow-ups-activity.webp",
+      "assets/products/small-business-crm/05-reports.webp"
+    ],
+    "video": "assets/products/small-business-crm/listing-video.mp4",
+    "tags": [
+      "crm template",
+      "client tracker",
+      "lead tracker",
+      "sales pipeline",
+      "sales tracker",
+      "follow up tracker",
+      "customer database"
+    ]
   }
 ]
