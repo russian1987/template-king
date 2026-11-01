@@ -256,5 +256,768 @@
       "follow up tracker",
       "customer database"
     ]
+  },
+  {
+    "slug": "wedding-planner-budget",
+    "title": "Wedding Planner and Budget",
+    "tagline": "Plan your whole wedding in one beautiful spreadsheet.",
+    "category": "Planners",
+    "featured": false,
+    "price": "$9.99",
+    "etsy_url": "https://www.etsy.com/listing/4607372387",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Dashboard: countdown, budget used, paid vs owed, guests attending, checklist progress, next payments, charts",
+      "Budget vs actual by category with over-budget alerts",
+      "Vendor contacts + payment schedule with due-date alerts",
+      "Guest list with RSVP, meals, sides, groups and thank-you tracking",
+      "Seating planner (40 tables)",
+      "58-task checklist pre-dated from your wedding date",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/wedding-planner-budget/01-hero.webp",
+      "assets/products/wedding-planner-budget/02-dashboard.webp",
+      "assets/products/wedding-planner-budget/03-budget.webp",
+      "assets/products/wedding-planner-budget/04-vendors-payments.webp",
+      "assets/products/wedding-planner-budget/05-guests.webp"
+    ],
+    "video": "assets/products/wedding-planner-budget/listing-video.mp4",
+    "tags": [
+      "wedding planner",
+      "wedding budget",
+      "guest list template",
+      "rsvp tracker",
+      "wedding checklist",
+      "seating chart",
+      "wedding spreadsheet"
+    ]
+  },
+  {
+    "slug": "net-worth-tracker",
+    "title": "Net Worth Tracker",
+    "tagline": "Know your number - and watch it grow every month.",
+    "category": "Personal Finance",
+    "featured": false,
+    "price": "$8.99",
+    "etsy_url": "https://www.etsy.com/listing/4607393686",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Dashboard: net worth, total assets, total debts, change vs last month, change since you started, goal progress, debt-to-asset ratio, months to goal",
+      "24-month table + charts: net worth by month, assets vs debts, asset mix",
+      "Accounts list (up to 60) with automatic Asset/Liability type, latest balance and monthly change",
+      "Monthly balance grid (24 months) with automatic totals",
+      "17 editable categories",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/net-worth-tracker/01-hero.webp",
+      "assets/products/net-worth-tracker/02-dashboard.webp",
+      "assets/products/net-worth-tracker/03-charts.webp",
+      "assets/products/net-worth-tracker/04-accounts.webp",
+      "assets/products/net-worth-tracker/05-balances.webp"
+    ],
+    "video": "assets/products/net-worth-tracker/listing-video.mp4",
+    "tags": [
+      "net worth tracker",
+      "net worth template",
+      "finance tracker",
+      "debt tracker",
+      "asset tracker",
+      "personal finance",
+      "money tracker"
+    ]
+  },
+  {
+    "slug": "subscription-tracker",
+    "title": "Subscription Tracker",
+    "tagline": "How much do your subscriptions really cost? Most people guess low.",
+    "category": "Personal Finance",
+    "featured": false,
+    "price": "$2.00",
+    "etsy_url": "https://www.etsy.com/listing/4607393974",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Dashboard: monthly spend, yearly spend, active count, budget left, renewing soon, due soon, free trials, saved by cancelling",
+      "Next 8 charges in date order + top 5 most expensive",
+      "Spend by category and by 'Worth it?' rating, with charts",
+      "Subscription list (up to 100) with weekly, monthly, quarterly, 6-month and yearly cycles",
+      "Alerts: renews soon, trial ends, review/cancel, missing info",
+      "Editable categories, budget and alert window",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/subscription-tracker/01-hero.webp",
+      "assets/products/subscription-tracker/02-dashboard.webp",
+      "assets/products/subscription-tracker/03-next-charges.webp",
+      "assets/products/subscription-tracker/04-subscriptions.webp",
+      "assets/products/subscription-tracker/05-categories.webp"
+    ],
+    "video": "assets/products/subscription-tracker/listing-video.mp4",
+    "tags": [
+      "subscription tracker",
+      "bill tracker",
+      "renewal tracker",
+      "budget template",
+      "monthly bills",
+      "expense tracker",
+      "google sheets"
+    ]
+  },
+  {
+    "slug": "pricing-calculator",
+    "title": "Pricing Calculator",
+    "tagline": "Are your prices actually paying you? Most makers undercharge.",
+    "category": "Business Operations",
+    "featured": false,
+    "price": "$7.99",
+    "etsy_url": "https://www.etsy.com/listing/4607373191",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Dashboard: products priced, average margin, average profit, losing money, below target, real hourly rate, most profitable product, items needed for your monthly goal",
+      "Product calculator (up to 50): 3 materials each + other costs, packaging, minutes of work, shipping charged vs actual",
+      "Break-even price, suggested price, fees, profit, margin, real hourly rate, wholesale and retail (2x2)",
+      "Test your own price with automatic Losing money / Below target flags",
+      "Materials library (up to 100) with cost per unit",
+      "Etsy-style fees pre-filled and editable, Offsite Ads toggle",
+      "Charts: profit per item and where each price goes",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/pricing-calculator/01-hero.webp",
+      "assets/products/pricing-calculator/02-dashboard.webp",
+      "assets/products/pricing-calculator/03-price-breakdown.webp",
+      "assets/products/pricing-calculator/04-products.webp",
+      "assets/products/pricing-calculator/05-charts.webp"
+    ],
+    "video": "assets/products/pricing-calculator/listing-video.mp4",
+    "tags": [
+      "pricing calculator",
+      "etsy seller tools",
+      "product pricing",
+      "handmade pricing",
+      "profit calculator",
+      "etsy fee calculator",
+      "small business"
+    ]
+  },
+  {
+    "slug": "retirement-planner",
+    "title": "Retirement Planner",
+    "tagline": "Will you have enough to retire? Find out in 10 minutes.",
+    "category": "Personal Finance",
+    "featured": false,
+    "price": "$9.99",
+    "etsy_url": "https://www.etsy.com/listing/4607395060",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Dashboard: nest egg at retirement, in today's dollars, nest egg needed, % on track, monthly retirement income, age your money lasts to, extra monthly saving needed, years to retirement",
+      "Year-by-year projection to age 110: contributions (with yearly raises), growth, inflation-adjusted withdrawals, balance, 'Runs out' warnings",
+      "Accounts (up to 20): 401(k), IRA, Roth, HSA, brokerage + employer match",
+      "Social Security / pension and editable withdrawal rate (4% rule)",
+      "Milestones every decade, balance-by-age chart, nest egg sources chart",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/retirement-planner/01-hero.webp",
+      "assets/products/retirement-planner/02-dashboard.webp",
+      "assets/products/retirement-planner/03-charts.webp",
+      "assets/products/retirement-planner/04-projection.webp",
+      "assets/products/retirement-planner/05-accounts.webp"
+    ],
+    "video": "assets/products/retirement-planner/listing-video.mp4",
+    "tags": [
+      "retirement planner",
+      "retirement calc",
+      "401k tracker",
+      "nest egg",
+      "fire planner",
+      "savings tracker",
+      "financial planner"
+    ]
+  },
+  {
+    "slug": "social-media-content-calendar",
+    "title": "Social Media Content Calendar",
+    "tagline": "Never wonder what to post again.",
+    "category": "Business Operations",
+    "featured": false,
+    "price": "$7.99",
+    "etsy_url": "https://www.etsy.com/listing/4607374363",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Monthly calendar (Sunday-Saturday) that fills itself: up to 3 posts a day, colour by platform, '+ more'",
+      "Posts planner (300 rows): date, platform, pillar, format, hook, caption notes, hashtags, status (Idea, Drafting, Scheduled, Posted), link",
+      "Results: likes, comments, shares, saves, reach, engagement and engagement rate",
+      "Dashboard: posts this month, posted, scheduled, overdue, ideas backlog, engagement, engagement rate, reach, goal progress per platform, content mix, top 5 posts, 2 charts",
+      "Editable platforms, posts-per-week goals, pillars and formats",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/social-media-content-calendar/01-hero.webp",
+      "assets/products/social-media-content-calendar/02-dashboard.webp",
+      "assets/products/social-media-content-calendar/03-calendar.webp",
+      "assets/products/social-media-content-calendar/04-posts.webp",
+      "assets/products/social-media-content-calendar/05-results.webp"
+    ],
+    "video": "assets/products/social-media-content-calendar/listing-video.mp4",
+    "tags": [
+      "content calendar",
+      "social media plan",
+      "content planner",
+      "instagram planner",
+      "tiktok planner",
+      "post scheduler",
+      "small business"
+    ]
+  },
+  {
+    "slug": "business-plan",
+    "title": "Business Plan Financials",
+    "tagline": "Need a business plan a lender will actually read? Get your numbers done in an afternoon.",
+    "category": "Business Operations",
+    "featured": false,
+    "price": "$11.99",
+    "etsy_url": "https://www.etsy.com/listing/4607395720",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Dashboard: Year-1 and Year-3 revenue and net income, gross margin, break-even month, startup costs, lowest cash balance, closing cash, loan payment, 2 charts",
+      "3-year projections: revenue, cost of sales, gross profit, expenses, EBITDA, interest, tax, net income, cash summary and loan balance",
+      "Year-1 monthly: revenue, costs, interest, tax, net income, cash flow, cash balance",
+      "Revenue (10 products/services) and expenses (20 startup costs, 25 monthly costs)",
+      "Business Plan Workbook: fillable PDF + Word, 11 sections with guiding questions",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/business-plan/01-hero.webp",
+      "assets/products/business-plan/02-dashboard.webp",
+      "assets/products/business-plan/03-projections.webp",
+      "assets/products/business-plan/04-monthly.webp",
+      "assets/products/business-plan/05-revenue.webp"
+    ],
+    "video": "assets/products/business-plan/listing-video.mp4",
+    "tags": [
+      "business plan",
+      "financial plan",
+      "startup template",
+      "cash flow",
+      "profit and loss",
+      "break even",
+      "small business"
+    ]
+  },
+  {
+    "slug": "mileage-log",
+    "title": "Mileage Log 2027",
+    "tagline": "Mileage Log 2027 for Excel, Google Sheets AND a printable/fillable log book.",
+    "category": "Taxes & Finance",
+    "featured": false,
+    "price": "$8.99",
+    "etsy_url": "https://www.etsy.com/listing/4607392088",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Trip Log: 500 rows. Enter odometer start/end OR just the miles. Round trip doubles it. Pick vehicle and trip type from dropdowns.",
+      "Business, medical, charity, moving and personal trips, each with its own editable rate (latest 2026 IRS rate of 76 cents pre-filled; update to 2027 in one cell).",
+      "Tolls and parking column (deductible on top of mileage).",
+      "Monthly Summary: miles by month and trip type, deduction per month, business miles per vehicle and business-use %.",
+      "Dashboard: business miles, estimated deduction, trips, average trip, business-use % and a monthly chart.",
+      "Error flags: red if odometer end is below start, orange if a date falls outside your tax year.",
+      "Up to 5 vehicles with Jan 1 / Dec 31 odometer readings (for Form 4562).",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/mileage-log/01-hero.webp",
+      "assets/products/mileage-log/02-trip-log.webp",
+      "assets/products/mileage-log/03-dashboard.webp",
+      "assets/products/mileage-log/04-monthly-summary.webp",
+      "assets/products/mileage-log/05-settings.webp"
+    ],
+    "video": "assets/products/mileage-log/listing-video.mp4",
+    "tags": [
+      "mileage log",
+      "mileage tracker",
+      "mileage log book",
+      "2027 mileage log",
+      "business mileage",
+      "irs mileage log",
+      "mileage spreadsheet"
+    ]
+  },
+  {
+    "slug": "project-management",
+    "title": "Project Management Template",
+    "tagline": "Project Management Template for Excel and Google Sheets: task list, automatic Gantt chart, team workload and a live dashboard in one file.",
+    "category": "Business Operations",
+    "featured": false,
+    "price": "$9.99",
+    "etsy_url": "https://www.etsy.com/listing/4607390374",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Tasks: 100 rows with phase, owner, priority, status, start, end and % done. Dropdowns for owner, phase, priority and status.",
+      "Automatic days, days left and a status flag: Complete, Overdue, Due soon (7 days), On track, No date.",
+      "Gantt chart: 26 weekly columns, color-coded by status, with this week highlighted.",
+      "Workload: tasks, in progress, blocked, done, overdue and scheduled days per person, plus unassigned tasks.",
+      "Dashboard: overall progress weighted by task length, overdue, due in 7 days, project finish date, tasks-by-status chart and stacked workload chart.",
+      "Settings: project name, manager, up to 12 team members, custom phases, Gantt start date and status date (TODAY or fixed).",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/project-management/01-hero.webp",
+      "assets/products/project-management/02-gantt.webp",
+      "assets/products/project-management/03-tasks.webp",
+      "assets/products/project-management/04-dashboard.webp",
+      "assets/products/project-management/05-workload.webp"
+    ],
+    "video": "assets/products/project-management/listing-video.mp4",
+    "tags": [
+      "project management",
+      "gantt chart",
+      "project planner",
+      "project tracker",
+      "task tracker",
+      "google sheets",
+      "excel template"
+    ]
+  },
+  {
+    "slug": "debt-payoff-tracker",
+    "title": "Debt Payoff Planner",
+    "tagline": "Debt Payoff Planner for Excel and Google Sheets, plus a printable debt-free coloring tracker.",
+    "category": "Personal Finance",
+    "featured": false,
+    "price": "$8.99",
+    "etsy_url": "https://www.etsy.com/listing/4607390736",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Up to 8 debts: credit cards, car loan, student loans, medical bills, personal loans.",
+      "Snowball (smallest balance first) or Avalanche (highest APR first). Switch in one click.",
+      "Extra payment rolls over: when a debt is paid off, its minimum goes to the next one automatically.",
+      "Payoff Plan: month-by-month payment, interest, principal and every debt's balance for up to 30 years.",
+      "Payoff month and date for each debt.",
+      "Compare tab: Snowball vs Avalanche vs minimums only: months, debt-free date, total interest, interest saved, balance chart.",
+      "Dashboard: debt-free date, months to go, total debt, total interest, interest saved, monthly budget, which debt to attack first, and this month's payment for each debt.",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/debt-payoff-tracker/01-hero.webp",
+      "assets/products/debt-payoff-tracker/02-dashboard.webp",
+      "assets/products/debt-payoff-tracker/03-debts.webp",
+      "assets/products/debt-payoff-tracker/04-payoff-plan.webp",
+      "assets/products/debt-payoff-tracker/05-compare.webp"
+    ],
+    "video": "assets/products/debt-payoff-tracker/listing-video.mp4",
+    "tags": [
+      "debt payoff planner",
+      "debt snowball",
+      "debt avalanche",
+      "debt tracker",
+      "debt free",
+      "debt payoff tracker",
+      "google sheets"
+    ]
+  },
+  {
+    "slug": "small-business-planner",
+    "title": "Small Business Planner 2027",
+    "tagline": "Small Business Planner 2027: a 49-page printable planner to set goals, plan your marketing and content, and track sales and expenses all year.",
+    "category": "Planners",
+    "featured": false,
+    "price": "$7.99",
+    "etsy_url": "https://www.etsy.com/listing/4607369927",
+    "description": [
+      "Printable PDF planner (US Letter and A4) — instant digital download",
+      "Business profile, 2027 year at a glance",
+      "Yearly goals, 2 goal action plans, quarterly planning",
+      "12 monthly calendars for 2027 + 12 monthly plan and review pages (goals, revenue goal vs actual, marketing focus, launches, content ideas, what worked)",
+      "Weekly planner (2 layouts) and a top-priorities page",
+      "Marketing plan and campaign planner",
+      "Social media content calendar, content ideas bank (8 categories), content planner",
+      "Annual revenue tracker, sales log (x2), expense log (x2), pricing worksheet",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/small-business-planner/01-hero.webp",
+      "assets/products/small-business-planner/02-yearly.webp",
+      "assets/products/small-business-planner/03-monthly.webp",
+      "assets/products/small-business-planner/04-weekly.webp",
+      "assets/products/small-business-planner/05-marketing.webp"
+    ],
+    "video": "assets/products/small-business-planner/listing-video.mp4",
+    "tags": [
+      "business planner",
+      "small business",
+      "2027 planner",
+      "printable planner",
+      "marketing planner",
+      "sales log",
+      "expense tracker"
+    ]
+  },
+  {
+    "slug": "bill-tracker",
+    "title": "Bill Tracker",
+    "tagline": "Bill Tracker for Excel and Google Sheets, plus a printable bill checklist.",
+    "category": "Personal Finance",
+    "featured": false,
+    "price": "$2.00",
+    "etsy_url": "https://www.etsy.com/listing/4607392394",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Bill list: name, category, amount, due day, how often (monthly, every 2 months, quarterly, twice a year, yearly), autopay, paid from, notes.",
+      "12 monthly tabs that fill in automatically, showing only the bills due that month, sorted by due date.",
+      "Tick Paid? (Yes) and the bill is crossed off. Optional paid date and amount.",
+      "Status for every bill: Paid, Due soon (within 7 days), Overdue, Autopay or Upcoming.",
+      "Calendar view on every month, with bill names on their due dates. Yellow = due, green = paid, red = overdue.",
+      "Month totals: bills due, total due, paid, left to pay, overdue count.",
+      "Year Overview: due vs paid each month, % paid, yearly cost by category, and a chart.",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/bill-tracker/01-hero.webp",
+      "assets/products/bill-tracker/02-monthly-checklist.webp",
+      "assets/products/bill-tracker/03-calendar.webp",
+      "assets/products/bill-tracker/04-bill-list.webp",
+      "assets/products/bill-tracker/05-status.webp"
+    ],
+    "video": "assets/products/bill-tracker/listing-video.mp4",
+    "tags": [
+      "bill tracker",
+      "bill organizer",
+      "bill payment log",
+      "monthly bills",
+      "bill checklist",
+      "google sheets",
+      "excel template"
+    ]
+  },
+  {
+    "slug": "savings-challenge",
+    "title": "Savings Challenge Tracker",
+    "tagline": "Savings Challenge Tracker for Excel and Google Sheets, plus printable coloring pages.",
+    "category": "Personal Finance",
+    "featured": false,
+    "price": "$7.99",
+    "etsy_url": "https://www.etsy.com/listing/4607371659",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "52-Week Money Challenge: choose your start amount ($1, $2, $5...) and start date, in Normal or Reverse order. Dates, running goal and saved so far, plus a color-in grid.",
+      "100 Envelope Challenge: $1 to $100 in any order, $5,050 total.",
+      "$5,000 Challenge: 100 mixed tiles that add up to exactly $5,000.",
+      "$10,000 Challenge: 100 mixed tiles that add up to exactly $10,000.",
+      "Custom Goal: your goal, 1 to 100 tiles, and a deadline. Tile amounts and how much to save per week are calculated for you.",
+      "Goal, saved, left, % done and tiles colored for every challenge, plus total saved and a chart.",
+      "Cover, 52-week circles, 100 envelopes, $5K tiles, $10K tiles, a blank custom-goal grid and a savings log.",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/savings-challenge/01-hero.webp",
+      "assets/products/savings-challenge/02-100-envelopes.webp",
+      "assets/products/savings-challenge/03-5k-10k.webp",
+      "assets/products/savings-challenge/04-52-week.webp",
+      "assets/products/savings-challenge/05-custom-goal.webp"
+    ],
+    "video": "assets/products/savings-challenge/listing-video.mp4",
+    "tags": [
+      "savings challenge",
+      "100 envelope",
+      "52 week challenge",
+      "savings tracker",
+      "money challenge",
+      "10k savings",
+      "5k savings"
+    ]
+  },
+  {
+    "slug": "adhd-productivity-planner",
+    "title": "ADHD Productivity Planner",
+    "tagline": "ADHD Planner - digital for GoodNotes and Notability with hyperlinked tabs, plus printable US Letter and A4 pages.",
+    "category": "Planners",
+    "featured": false,
+    "price": "$9.99",
+    "etsy_url": "https://www.etsy.com/listing/4607396030",
+    "description": [
+      "Digital planner for GoodNotes and Notability plus printable PDF — instant digital download",
+      "Brain Dump: one big box plus To do, Worries, Ideas, Remember.",
+      "Daily Plan: Must / Should / Could, energy check, one tiny start, win of the day and half-hour time blocks with Guess vs Real time.",
+      "Dopamine Menu: starters, mains, sides, desserts and specials.",
+      "Task Chunking: break a big task into 5-15 minute steps with time guesses and rewards.",
+      "Habits + Mood: 12 monthly pages, 8 habits, mood colors and a monthly reflection.",
+      "Notes: dot grid pages.",
+      "46 landscape pages, side tabs on every page, home page with tiles and month buttons.",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/adhd-productivity-planner/01-hero.webp",
+      "assets/products/adhd-productivity-planner/02-daily.webp",
+      "assets/products/adhd-productivity-planner/03-brain-dump.webp",
+      "assets/products/adhd-productivity-planner/04-dopamine-menu.webp",
+      "assets/products/adhd-productivity-planner/05-chunking.webp"
+    ],
+    "video": "assets/products/adhd-productivity-planner/listing-video.mp4",
+    "tags": [
+      "adhd planner",
+      "digital planner",
+      "goodnotes planner",
+      "notability planner",
+      "adhd printable",
+      "dopamine menu",
+      "brain dump"
+    ]
+  },
+  {
+    "slug": "habit-tracker",
+    "title": "Habit Tracker",
+    "tagline": "Habit Tracker for Excel and Google Sheets, plus printable pages.",
+    "category": "Planners",
+    "featured": false,
+    "price": "$7.99",
+    "etsy_url": "https://www.etsy.com/listing/4607396306",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Setup: up to 15 habits, each with its own weekly goal (1-7 days) and category.",
+      "12 month tabs: check off each day. Done, Goal, % of goal, Streak now and Best streak calculate on every row.",
+      "Daily score heatmap plus an optional mood / energy row (1-5).",
+      "Year Dashboard: habit-by-month heatmap, top habit, longest streak, total check-ins and 2 charts.",
+      "Printable PDF: monthly dot tracker, weekly check-in and 30-day challenge (US Letter and A4).",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/habit-tracker/01-hero.webp",
+      "assets/products/habit-tracker/02-month-tab.webp",
+      "assets/products/habit-tracker/03-dashboard.webp",
+      "assets/products/habit-tracker/04-setup.webp",
+      "assets/products/habit-tracker/05-mood.webp"
+    ],
+    "video": "assets/products/habit-tracker/listing-video.mp4",
+    "tags": [
+      "habit tracker",
+      "habit tracker excel",
+      "google sheets habit",
+      "streak tracker",
+      "daily habit tracker",
+      "printable habit",
+      "habit planner"
+    ]
+  },
+  {
+    "slug": "meal-planner",
+    "title": "Meal Planner",
+    "tagline": "Meal Planner and Grocery List for Excel and Google Sheets, plus printable pages.",
+    "category": "Planners",
+    "featured": false,
+    "price": "$8.99",
+    "etsy_url": "https://www.etsy.com/listing/4607396950",
+    "description": [
+      "Works in Microsoft Excel and Google Sheets — instant digital download",
+      "Recipe Bank: up to 60 recipes with prep time, servings, cost per recipe and per serving.",
+      "Ingredients: 400 rows - qty, unit, store section and est. cost for each recipe.",
+      "Weekly Plan: breakfast, lunch, dinner and snack dropdowns for 7 days, day costs, extras.",
+      "Grocery List: auto-built, combined, multiplied by how often you planned each meal and sorted by your store sections. Check items off.",
+      "Budget: planned vs your weekly budget, left to spend, 52-week spending log with chart.",
+      "Printable PDF: weekly meal plan, grocery checklist and recipe cards (US Letter and A4).",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/meal-planner/01-hero.webp",
+      "assets/products/meal-planner/02-weekly-plan.webp",
+      "assets/products/meal-planner/03-grocery-list.webp",
+      "assets/products/meal-planner/04-recipe-bank.webp",
+      "assets/products/meal-planner/05-budget.webp"
+    ],
+    "video": "assets/products/meal-planner/listing-video.mp4",
+    "tags": [
+      "meal planner",
+      "meal plan template",
+      "grocery list",
+      "google sheets meal",
+      "excel meal planner",
+      "weekly meal plan",
+      "recipe organizer"
+    ]
+  },
+  {
+    "slug": "resume-modern",
+    "title": "Modern Resume Template",
+    "tagline": "Modern Resume Template with a matching cover letter and references page.",
+    "category": "Resumes",
+    "featured": false,
+    "price": "$8.99",
+    "etsy_url": "https://www.etsy.com/listing/4607376145",
+    "description": [
+      "Works in Microsoft Word and Google Docs — instant digital download",
+      "Resume template (1 page)",
+      "Matching cover letter template",
+      "Matching references page",
+      "Every file as a Blank version (clean placeholders) and an Example version (filled in, so you can see how it reads)",
+      "US Letter (8.5 x 11 in) and A4 (210 x 297 mm) versions",
+      "One-page layout with a tinted sidebar for contact, skills, education and languages",
+      "Poppins + Lato fonts, teal accents (easy to recolor with styles)",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/resume-modern/01-hero.webp",
+      "assets/products/resume-modern/02-resume.webp",
+      "assets/products/resume-modern/03-detail.webp",
+      "assets/products/resume-modern/04-letter-references.webp",
+      "assets/products/resume-modern/05-blank-example.webp"
+    ],
+    "video": "assets/products/resume-modern/listing-video.mp4",
+    "tags": [
+      "resume template",
+      "modern resume",
+      "cv template",
+      "word resume",
+      "google docs resume",
+      "cover letter",
+      "resume and cover"
+    ]
+  },
+  {
+    "slug": "resume-minimal",
+    "title": "Minimal Resume Template",
+    "tagline": "Minimal Resume Template in black and white, with a matching cover letter and references page.",
+    "category": "Resumes",
+    "featured": false,
+    "price": "$7.99",
+    "etsy_url": "https://www.etsy.com/listing/4607397414",
+    "description": [
+      "Works in Microsoft Word and Google Docs — instant digital download",
+      "Resume template (1 page)",
+      "Matching cover letter template",
+      "Matching references page",
+      "Every file as a Blank version (clean placeholders) and an Example version (filled in, so you can see how it reads)",
+      "US Letter (8.5 x 11 in) and A4 (210 x 297 mm) versions",
+      "Centered letter-spaced name and a single thin rule",
+      "Right-aligned dates, en-dash bullets, one font family (Lato)",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/resume-minimal/01-hero.webp",
+      "assets/products/resume-minimal/02-resume.webp",
+      "assets/products/resume-minimal/03-detail.webp",
+      "assets/products/resume-minimal/04-letter-references.webp",
+      "assets/products/resume-minimal/05-blank-example.webp"
+    ],
+    "video": "assets/products/resume-minimal/listing-video.mp4",
+    "tags": [
+      "minimal resume",
+      "resume template",
+      "simple resume",
+      "clean resume",
+      "cv template",
+      "word resume",
+      "google docs resume"
+    ]
+  },
+  {
+    "slug": "resume-executive",
+    "title": "Executive Resume Template",
+    "tagline": "Executive Resume Template for directors, VPs and senior leaders, with a matching cover letter and references page.",
+    "category": "Resumes",
+    "featured": false,
+    "price": "$11.99",
+    "etsy_url": "https://www.etsy.com/listing/4607397652",
+    "description": [
+      "Works in Microsoft Word and Google Docs — instant digital download",
+      "Resume template (1 page)",
+      "Matching cover letter template",
+      "Matching references page",
+      "Every file as a Blank version (clean placeholders) and an Example version (filled in, so you can see how it reads)",
+      "US Letter (8.5 x 11 in) and A4 (210 x 297 mm) versions",
+      "Navy header band with your name and title",
+      "Executive summary and a 3 x 3 Core Competencies grid",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/resume-executive/01-hero.webp",
+      "assets/products/resume-executive/02-resume.webp",
+      "assets/products/resume-executive/03-detail.webp",
+      "assets/products/resume-executive/04-letter-references.webp",
+      "assets/products/resume-executive/05-blank-example.webp"
+    ],
+    "video": "assets/products/resume-executive/listing-video.mp4",
+    "tags": [
+      "executive resume",
+      "resume template",
+      "director resume",
+      "vp resume",
+      "manager resume",
+      "cv template",
+      "word resume"
+    ]
+  },
+  {
+    "slug": "resume-creative",
+    "title": "Creative Resume Template",
+    "tagline": "Creative Resume Template with a coral monogram, skill dots and a warm sidebar, plus a matching cover letter and references page.",
+    "category": "Resumes",
+    "featured": false,
+    "price": "$9.99",
+    "etsy_url": "https://www.etsy.com/listing/4607376795",
+    "description": [
+      "Works in Microsoft Word and Google Docs — instant digital download",
+      "Resume template (1 page)",
+      "Matching cover letter template",
+      "Matching references page",
+      "Every file as a Blank version (clean placeholders) and an Example version (filled in, so you can see how it reads)",
+      "US Letter (8.5 x 11 in) and A4 (210 x 297 mm) versions",
+      "Coral initials block and bold Montserrat name",
+      "Skill rating dots, tools, education, awards and languages sidebar",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/resume-creative/01-hero.webp",
+      "assets/products/resume-creative/02-resume.webp",
+      "assets/products/resume-creative/03-detail.webp",
+      "assets/products/resume-creative/04-letter-references.webp",
+      "assets/products/resume-creative/05-blank-example.webp"
+    ],
+    "video": "assets/products/resume-creative/listing-video.mp4",
+    "tags": [
+      "creative resume",
+      "resume template",
+      "designer resume",
+      "colorful resume",
+      "cv template",
+      "word resume",
+      "google docs resume"
+    ]
+  },
+  {
+    "slug": "resume-ats",
+    "title": "ATS Resume Template",
+    "tagline": "ATS Friendly Resume Template with a matching cover letter and references page.",
+    "category": "Resumes",
+    "featured": false,
+    "price": "$6.99",
+    "etsy_url": "https://www.etsy.com/listing/4607398190",
+    "description": [
+      "Works in Microsoft Word and Google Docs — instant digital download",
+      "Resume template (1 page)",
+      "Matching cover letter template",
+      "Matching references page",
+      "Every file as a Blank version (clean placeholders) and an Example version (filled in, so you can see how it reads)",
+      "US Letter (8.5 x 11 in) and A4 (210 x 297 mm) versions",
+      "Single column, no tables, text boxes, images or header/footer content",
+      "Standard headings: Professional Summary, Skills, Professional Experience, Education, Certifications",
+      "Includes a filled-in sample copy plus a blank copy, ready to use"
+    ],
+    "images": [
+      "assets/products/resume-ats/01-hero.webp",
+      "assets/products/resume-ats/02-resume.webp",
+      "assets/products/resume-ats/03-detail.webp",
+      "assets/products/resume-ats/04-letter-references.webp",
+      "assets/products/resume-ats/05-blank-example.webp"
+    ],
+    "video": "assets/products/resume-ats/listing-video.mp4",
+    "tags": [
+      "ats resume",
+      "ats friendly resume",
+      "resume template",
+      "simple resume",
+      "professional cv",
+      "word resume",
+      "google docs resume"
+    ]
   }
 ]
