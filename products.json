@@ -18,15 +18,10 @@
     ],
     "images": [
       "assets/products/small-business-tax-tracker-2026/01-hero.webp",
-      "assets/products/small-business-tax-tracker-2026/02-whats-included.webp",
-      "assets/products/small-business-tax-tracker-2026/03-tab-dashboard.webp",
-      "assets/products/small-business-tax-tracker-2026/04-tab-tax-summary.webp",
-      "assets/products/small-business-tax-tracker-2026/05-tab-quarterly-taxes.webp",
-      "assets/products/small-business-tax-tracker-2026/06-tab-income.webp",
-      "assets/products/small-business-tax-tracker-2026/07-tab-expenses.webp",
-      "assets/products/small-business-tax-tracker-2026/08-tab-mileage-log.webp",
-      "assets/products/small-business-tax-tracker-2026/12-tab-home-office.webp",
-      "assets/products/small-business-tax-tracker-2026/10-collage-setup-yearend.webp"
+      "assets/products/small-business-tax-tracker-2026/02-dashboard.webp",
+      "assets/products/small-business-tax-tracker-2026/03-tax-summary.webp",
+      "assets/products/small-business-tax-tracker-2026/04-quarterly-taxes.webp",
+      "assets/products/small-business-tax-tracker-2026/05-income-expenses.webp"
     ],
     "video": "assets/products/small-business-tax-tracker-2026/listing-video.mp4",
     "tags": [
@@ -61,9 +56,9 @@
     "images": [
       "assets/products/budget-planner-2027/01-hero.webp",
       "assets/products/budget-planner-2027/02-dashboard.webp",
-      "assets/products/budget-planner-2027/03-paychecks-bills.webp",
-      "assets/products/budget-planner-2027/04-debt-payoff.webp",
-      "assets/products/budget-planner-2027/05-savings-networth.webp"
+      "assets/products/budget-planner-2027/03-paychecks.webp",
+      "assets/products/budget-planner-2027/04-bills-calendar.webp",
+      "assets/products/budget-planner-2027/05-debt-payoff.webp"
     ],
     "video": "assets/products/budget-planner-2027/listing-video.mp4",
     "tags": [
@@ -98,8 +93,8 @@
       "assets/products/profit-loss-2027/01-hero.webp",
       "assets/products/profit-loss-2027/02-dashboard.webp",
       "assets/products/profit-loss-2027/03-pl-monthly.webp",
-      "assets/products/profit-loss-2027/04-schedule-c-yoy.webp",
-      "assets/products/profit-loss-2027/05-charts.webp"
+      "assets/products/profit-loss-2027/04-schedule-c.webp",
+      "assets/products/profit-loss-2027/05-annual-yoy.webp"
     ],
     "video": "assets/products/profit-loss-2027/listing-video.mp4",
     "tags": [
@@ -134,9 +129,9 @@
     "images": [
       "assets/products/rental-property-tracker/01-hero.webp",
       "assets/products/rental-property-tracker/02-dashboard.webp",
-      "assets/products/rental-property-tracker/03-rent-roll.webp",
-      "assets/products/rental-property-tracker/04-schedule-e-depreciation.webp",
-      "assets/products/rental-property-tracker/05-portfolio.webp"
+      "assets/products/rental-property-tracker/03-property-tab.webp",
+      "assets/products/rental-property-tracker/04-schedule-e.webp",
+      "assets/products/rental-property-tracker/05-rent-roll-portfolio.webp"
     ],
     "video": "assets/products/rental-property-tracker/listing-video.mp4",
     "tags": [
@@ -171,8 +166,8 @@
       "assets/products/inventory-tracker/01-hero.webp",
       "assets/products/inventory-tracker/02-dashboard.webp",
       "assets/products/inventory-tracker/03-products.webp",
-      "assets/products/inventory-tracker/04-stock-log-reorder.webp",
-      "assets/products/inventory-tracker/05-sales-category.webp"
+      "assets/products/inventory-tracker/04-stock-log.webp",
+      "assets/products/inventory-tracker/05-reorder-suppliers.webp"
     ],
     "video": "assets/products/inventory-tracker/listing-video.mp4",
     "tags": [
@@ -205,10 +200,10 @@
     ],
     "images": [
       "assets/products/invoice-client-tracker/01-hero.webp",
-      "assets/products/invoice-client-tracker/02-dashboard.webp",
-      "assets/products/invoice-client-tracker/03-invoice.webp",
+      "assets/products/invoice-client-tracker/02-invoice.webp",
+      "assets/products/invoice-client-tracker/03-dashboard.webp",
       "assets/products/invoice-client-tracker/04-aging-report.webp",
-      "assets/products/invoice-client-tracker/05-clients-yearly.webp"
+      "assets/products/invoice-client-tracker/05-log-clients.webp"
     ],
     "video": "assets/products/invoice-client-tracker/listing-video.mp4",
     "tags": [
@@ -243,8 +238,8 @@
       "assets/products/small-business-crm/01-hero.webp",
       "assets/products/small-business-crm/02-dashboard.webp",
       "assets/products/small-business-crm/03-deals.webp",
-      "assets/products/small-business-crm/04-follow-ups-activity.webp",
-      "assets/products/small-business-crm/05-reports.webp"
+      "assets/products/small-business-crm/04-follow-ups.webp",
+      "assets/products/small-business-crm/05-activity-pipeline.webp"
     ],
     "video": "assets/products/small-business-crm/listing-video.mp4",
     "tags": [
