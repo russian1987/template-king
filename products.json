@@ -1014,5 +1014,65 @@
       "word resume",
       "google docs resume"
     ]
+  },
+  {
+    "slug": "90-day-survival-checklist",
+    "title": "90-Day Survival Checklist",
+    "tagline": "233 checklist items in five phases, from the first 72 hours to day 90.",
+    "category": "Preparedness",
+    "featured": false,
+    "price": "$1.99",
+    "etsy_url": "https://www.etsy.com/listing/4613785029/90-day-survival-checklist-printable-pdf",
+    "description": [
+      "Printable PDF (US Letter and A4) plus an Excel and Google Sheets companion — instant digital download",
+      "233 checklist items in five phases, from the first 72 hours through day 90",
+      "Phases: first 72 hours, weeks 1-2, days 15-30, days 31-60 and days 61-90",
+      "Water, food, shelter, power, first aid, sanitation, security, communications, tools, documents, morale, skills, and family or pet plans",
+      "Household water and calorie calculator in the companion spreadsheet"
+    ],
+    "images": [
+      "assets/products/90-day-survival-checklist/01-hero.webp"
+    ],
+    "video": "",
+    "tags": [
+      "survival checklist",
+      "emergency preparedness",
+      "72 hour kit",
+      "printable checklist",
+      "water calculator",
+      "google sheets",
+      "excel template"
+    ],
+    "note": "Educational tool. Follow official instructions in an actual emergency."
+  },
+  {
+    "slug": "blackout-grid-down-survival-guide",
+    "title": "Blackout and Grid-Down Survival Guide",
+    "tagline": "43-page field manual for water, first aid, fire, cooking, food and security when the power is out.",
+    "category": "Preparedness",
+    "featured": false,
+    "price": "$4.99",
+    "etsy_url": "https://www.etsy.com/listing/4613801542/blackout-and-grid-down-survival-guide",
+    "description": [
+      "43-page printable PDF field manual (US Letter and A4) — instant digital download",
+      "Finding, filtering and disinfecting water",
+      "First aid, fire, and cooking without power",
+      "Food safety, and fishing with limited supplies",
+      "Reinforcing doors, plus worksheets"
+    ],
+    "images": [
+      "assets/products/blackout-grid-down-survival-guide/01-hero.webp"
+    ],
+    "video": "",
+    "tags": [
+      "blackout guide",
+      "grid down",
+      "power outage",
+      "emergency preparedness",
+      "water purification",
+      "first aid",
+      "printable pdf"
+    ],
+    "note": "Educational tool. Follow official instructions in an actual emergency."
   }
 ]
